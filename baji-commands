@@ -1,0 +1,3 @@
+touch baji-commands
+git add baji-commands
+git commit -m "baji-commands"
